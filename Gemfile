@@ -17,6 +17,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'capybara'
 gem 'faraday'
 gem 'rspec-rails'
+gem 'omniauth'
 gem 'omniauth-github'
 
 group :development, :test do
