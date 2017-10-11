@@ -16,9 +16,11 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'capybara'
 gem 'faraday'
+gem 'figaro'
 gem 'rspec-rails'
 gem 'omniauth'
 gem 'omniauth-github'
+gem 'bootstrap-sass'
 
 group :development, :test do
   gem 'pry'
